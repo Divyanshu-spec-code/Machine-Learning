@@ -40,7 +40,7 @@ Used with scaling and train-test split
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/sonar-rock-vs-mine.git
+git clone https://github.com/Divyanshu-spec -code/sonar-rock-vs-mine.git
 cd sonar-rock-vs-mine
 2. Install Dependencies
 bash
